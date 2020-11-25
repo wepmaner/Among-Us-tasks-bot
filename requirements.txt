@@ -1,0 +1,5 @@
+pywin32==300
+opencv_python==4.4.0.44
+numpy==1.16.0
+PyAutoGUI==0.9.52
+Pillow==8.0.1
