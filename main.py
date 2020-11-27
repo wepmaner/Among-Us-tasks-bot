@@ -7,7 +7,6 @@ import pyautogui
 from config import *
 from tasks import tasks_manager
 from rooms import rooms_manager
-from setuptools import setup
 
 
 if MONITOR_RESOLUTION:
